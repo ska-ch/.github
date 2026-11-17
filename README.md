@@ -1,13 +1,13 @@
-# chsrc `.github` repository
+# SKACH `.github` repository
 
-This special repository holds organization-wide files for chsrc. GitHub treats a repository named `.github` differently from others.
+This special repository holds organization-wide files for SKACH. GitHub treats a repository named `.github` differently from others.
 
 | Path | What GitHub does with it |
 | --- | --- |
-| `profile/README.md` | Shown on the chsrc organization's front page (public repo required). |
-| `CONTRIBUTING.md` | Used as the default contributing guide for any chsrc repo without its own. |
+| `profile/README.md` | Shown on the SKACH organization's front page (public repo required). |
+| `CONTRIBUTING.md` | Used as the default contributing guide for any SKACH repo without its own. |
 | `REPOSITORY_POLICY.md` | The consortium's repository policy. Not special to GitHub; it just lives here. |
-| `PROJECT_OUTPUTS.md` | List of SKACH project repositories kept outside the chsrc organization. Not special to GitHub. |
+| `PROJECT_OUTPUTS.md` | List of SKACH project repositories kept outside the SKACH organization. Not special to GitHub. |
 | `templates/` | Starter files to copy into new repos: README, `CITATION.cff`, licence guide. Not applied automatically. |
 
 We keep this repository **public**, so the organization profile will show.
